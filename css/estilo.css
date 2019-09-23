@@ -1,5 +1,5 @@
 .logo{
-	height: 50px;
+	height: 60px;
 }
 .fa, .fab, .fad, .fal, .far, .fas {
 	margin: 0 5px 0 5px;
@@ -17,4 +17,13 @@ main {
 
 #teste1{
 	margin: 15px 15px;
+}
+
+.rodape{
+	text-align: center;
+	
+}
+
+.bt-login{
+	height: 60px;
 }
