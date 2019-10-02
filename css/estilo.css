@@ -15,7 +15,7 @@ main {
   flex: 1 0 auto;
 }
 
-#teste1{
+#cards{
 	margin: 15px 15px;
 }
 
@@ -26,4 +26,18 @@ main {
 
 .bt-login{
 	height: 60px;
+	
+}
+
+.copyright{
+	text-align: center;
+	color: black;
+}
+
+#contact{
+	text-align: center;
+}	
+
+.list{
+padding-left: 25%;
 }
